@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="229" viewBox="0 0 326 229">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.663" y1="0.034" x2="0.324" y2="0.627" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8d756"/>
+      <stop offset="1" stop-color="#df7342"/>
+    </linearGradient>
+    <filter id="Union_3" x="134.509" y="13.338" width="174.8" height="143.952" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#df7342"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.705" y1="0.267" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.067" stop-color="#fff" stop-opacity="0.902"/>
+      <stop offset="0.639" stop-color="#fff" stop-opacity="0.749"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.451"/>
+    </linearGradient>
+  </defs>
+  <g id="weather-condition-img-sunny" transform="translate(-753 -372)">
+    <g id="Sun-shadow" transform="translate(905.44 372)">
+      <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="70" cy="69.5" rx="70" ry="69.5" transform="translate(-0.44)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, -152.44, 0)" filter="url(#Union_3)">
+        <path id="Union_3-2" data-name="Union 3" d="M46.936,104.168h0A69.673,69.673,0,0,1,11.478,0a77.388,77.388,0,0,1,41.4,51.5A72.8,72.8,0,0,1,138.8,46.516a69.7,69.7,0,0,1-91.863,57.652Z" transform="translate(152.51 31.34)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="frosty-cloud" transform="translate(753 393.449)">
+      <path id="export" d="M97.463,208v-.213A104.009,104.009,0,1,1,202.353,69.081a77.218,77.218,0,1,1,53.07,138.631V208Z" transform="translate(0 -0.449)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

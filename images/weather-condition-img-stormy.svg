@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="285.45" viewBox="0 0 326 285.45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.673" stop-color="#f2f2f2" stop-opacity="0.741"/>
+      <stop offset="1" stop-color="#ececec" stop-opacity="0.071"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.705" y1="0.267" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.067" stop-color="#fff" stop-opacity="0.902"/>
+      <stop offset="0.639" stop-color="#fff" stop-opacity="0.31"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.051"/>
+    </linearGradient>
+  </defs>
+  <g id="weather-condition-img-stormy" transform="translate(-797 -372)">
+    <path id="thunder-bolt" d="M31.754,58.7h26.5V7.743l45.455,72.7H75.066v60.755Z" transform="translate(888.27 516.257)" fill="url(#linear-gradient)"/>
+    <g id="frosty-cloud" transform="translate(71 101)">
+      <path id="export" d="M97.463,208v-.213A104.009,104.009,0,1,1,202.353,69.081a77.218,77.218,0,1,1,53.07,138.631V208Z" transform="translate(726 271)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
