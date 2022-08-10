@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="251.902" viewBox="0 0 326 251.902">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.749" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.385" stop-color="#fff" stop-opacity="0.812"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.75" stop-color="#fff" stop-opacity="0.812"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.705" y1="0.267" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.067" stop-color="#fff" stop-opacity="0.902"/>
+      <stop offset="0.639" stop-color="#fff" stop-opacity="0.31"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.051"/>
+    </linearGradient>
+  </defs>
+  <g id="shower-rain" transform="translate(-797 -372)">
+    <g id="rain-drops" transform="translate(398.571 250.036)">
+      <path id="Union_4" data-name="Union 4" d="M76.48,78.677V68.107a9.189,9.189,0,0,1,18.379,0V78.677a9.189,9.189,0,0,1-18.379,0ZM0,71.8v-.988a9.189,9.189,0,1,1,18.379,0V71.8A9.189,9.189,0,0,1,0,71.8Zm50.987-1.173v-6.9a9.189,9.189,0,0,1,18.379,0v6.9a9.189,9.189,0,1,1-18.379,0ZM25.493,59.768V28.455a9.189,9.189,0,1,1,18.379,0V59.768a9.189,9.189,0,1,1-18.379,0ZM0,46.338V9.19a9.189,9.189,0,1,1,18.379,0V46.338A9.189,9.189,0,1,1,0,46.338Zm76.48-2.726V17.752a9.189,9.189,0,0,1,18.379,0V43.612a9.189,9.189,0,0,1-18.379,0ZM50.987,39.228V9.19a9.189,9.189,0,1,1,18.379,0V39.228a9.189,9.189,0,1,1-18.379,0Z" transform="translate(514 286)" fill="url(#linear-gradient)"/>
+      <path id="Union_5" data-name="Union 5" d="M76.48,77.713V67.139a9.189,9.189,0,0,1,18.379,0V77.713a9.189,9.189,0,0,1-18.379,0ZM0,70.806v-.99a9.189,9.189,0,1,1,18.379,0v.99A9.189,9.189,0,1,1,0,70.806Zm50.987-1.2V62.7a9.189,9.189,0,1,1,18.379,0v6.9a9.189,9.189,0,1,1-18.379,0ZM25.493,59.776V28.457a9.189,9.189,0,0,1,18.379,0V59.776a9.189,9.189,0,1,1-18.379,0ZM0,46.346V9.19a9.189,9.189,0,1,1,18.379,0V46.346A9.189,9.189,0,0,1,0,46.346Zm76.48-2.727V17.753a9.189,9.189,0,0,1,18.379,0V43.618a9.189,9.189,0,0,1-18.379,0ZM50.987,39.235V9.19a9.189,9.189,0,1,1,18.379,0V39.235a9.189,9.189,0,0,1-18.379,0Z" transform="translate(514 286)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="frosty-cloud" transform="translate(71 101)">
+      <path id="export" d="M97.463,208v-.213A104.009,104.009,0,1,1,202.353,69.081a77.218,77.218,0,1,1,53.07,138.631V208Z" transform="translate(726 271)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

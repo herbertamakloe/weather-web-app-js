@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="266.355" viewBox="0 0 326 266.355">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.749" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.385" stop-color="#fff" stop-opacity="0.812"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.663" y1="0.034" x2="0.324" y2="0.627" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#929292"/>
+      <stop offset="1" stop-color="#181818"/>
+    </linearGradient>
+    <filter id="Union_3" x="134.508" y="13.281" width="174.548" height="143.757" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#181818"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.705" y1="0.267" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1e1e1"/>
+      <stop offset="0.067" stop-color="#e1e1e1" stop-opacity="0.902"/>
+      <stop offset="0.639" stop-color="#e1e1e1" stop-opacity="0.749"/>
+      <stop offset="1" stop-color="#e1e1e1" stop-opacity="0.278"/>
+    </linearGradient>
+  </defs>
+  <g id="rain-night" transform="translate(-753 -376)">
+    <g id="rain-drops" transform="translate(354.57 268.645)">
+      <path id="Union_4" data-name="Union 4" d="M76.48,79.52V71.672a9.189,9.189,0,0,1,18.379,0V79.52a9.189,9.189,0,1,1-18.379,0ZM0,73.107V69.765a9.189,9.189,0,1,1,18.379,0v3.342A9.189,9.189,0,0,1,0,73.107Zm50.987-1.331V65.95a9.189,9.189,0,1,1,18.379,0v5.826a9.189,9.189,0,0,1-18.379,0ZM25.493,65.6V30.77a9.189,9.189,0,1,1,18.379,0V65.6a9.189,9.189,0,0,1-18.379,0ZM76.48,48.3V19.31a9.189,9.189,0,0,1,18.379,0V48.3a9.189,9.189,0,1,1-18.379,0ZM0,46.39v-34.4a9.189,9.189,0,1,1,18.379,0v34.4A9.189,9.189,0,1,1,0,46.39Zm50.987-3.74V9.189a9.189,9.189,0,0,1,18.379,0V42.65a9.189,9.189,0,1,1-18.379,0Z" transform="translate(514 285)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="clear-sky-night" transform="translate(905.44 376)">
+      <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="70" cy="69" rx="70" ry="69" transform="translate(-0.44)" fill="url(#linear-gradient-2)"/>
+      <g transform="matrix(1, 0, 0, 1, -152.44, 0)" filter="url(#Union_3)">
+        <path id="Union_3-2" data-name="Union 3" d="M46.851,103.979h0A69.546,69.546,0,0,1,11.457,0,77.248,77.248,0,0,1,52.786,51.408a72.671,72.671,0,0,1,85.762-4.976,69.574,69.574,0,0,1-91.7,57.547Z" transform="translate(152.51 31.28)" fill="#fff" opacity="0.25"/>
+      </g>
+    </g>
+    <g id="frosty-cloud" transform="translate(753 393.449)">
+      <path id="export" d="M97.463,208v-.213A104.009,104.009,0,1,1,202.353,69.081a77.218,77.218,0,1,1,53.07,138.631V208Z" transform="translate(0 -0.449)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

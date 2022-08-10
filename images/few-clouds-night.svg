@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="229" viewBox="0 0 326 229">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.663" y1="0.034" x2="0.324" y2="0.627" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#929292"/>
+      <stop offset="1" stop-color="#181818"/>
+    </linearGradient>
+    <filter id="Union_3" x="134.508" y="13.281" width="174.548" height="143.757" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#181818"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.705" y1="0.267" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1e1e1"/>
+      <stop offset="0.067" stop-color="#e1e1e1" stop-opacity="0.902"/>
+      <stop offset="0.639" stop-color="#e1e1e1" stop-opacity="0.749"/>
+      <stop offset="1" stop-color="#e1e1e1" stop-opacity="0.278"/>
+    </linearGradient>
+  </defs>
+  <g id="few-clouds-night" transform="translate(-753 -372)">
+    <g id="clear-sky-night" transform="translate(905.44 372)">
+      <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="70" cy="69" rx="70" ry="69" transform="translate(-0.44)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, -152.44, 0)" filter="url(#Union_3)">
+        <path id="Union_3-2" data-name="Union 3" d="M46.851,103.979h0A69.546,69.546,0,0,1,11.457,0,77.248,77.248,0,0,1,52.786,51.408a72.671,72.671,0,0,1,85.762-4.976,69.574,69.574,0,0,1-91.7,57.547Z" transform="translate(152.51 31.28)" fill="#fff" opacity="0.25"/>
+      </g>
+    </g>
+    <g id="frosty-cloud" transform="translate(753 393.449)">
+      <path id="export" d="M97.463,208v-.213A104.009,104.009,0,1,1,202.353,69.081a77.218,77.218,0,1,1,53.07,138.631V208Z" transform="translate(0 -0.449)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
