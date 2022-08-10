@@ -124,7 +124,7 @@ const weather = {
 			// ).background = "linear-gradient(180deg, #4e85d6, #65a9f7)";
 		}
 
-		if (icon == "03n") {
+		if (icon == "03n" || icon == "04n") {
 			document.querySelector(".container").style.background =
 				"linear-gradient(180deg, #265A8D, #5CA9FF)";
 		}
